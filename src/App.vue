@@ -27,6 +27,6 @@ body {
   background-image: url("@/assets/topo.png");
   background-size: cover;
   background-repeat: no-repeat;
-  height: 100svh;
+  min-height: 100svh;
 }
 </style>
