@@ -17,7 +17,7 @@ const createTodo = () => {
     return;
   }
   todo.invalid = true;
-  todo.errMsg = "Todo value cannot be empty!";
+  todo.errMsg = "Value cannot be empty!";
 };
 </script>
 
