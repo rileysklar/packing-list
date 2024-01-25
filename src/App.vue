@@ -19,6 +19,13 @@ import TodoHeader from "./components/TodoHeader.vue";
   box-sizing: border-box;
   color: #fafafa;
 }
+
+input,
+select,
+textarea {
+  font-size: 16px; /* or larger */
+}
+
 .container {
   max-width: 1100px;
   margin: 0 auto;
